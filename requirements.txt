@@ -1,0 +1,9 @@
+streamlit>=1.36
+openai>=1.40
+python-dotenv>=1.0
+transformers>=4.44
+accelerate>=0.33
+sentencepiece>=0.2
+nltk>=3.9
+pdfplumber>=0.11
+PyPDF2>=3.0

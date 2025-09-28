@@ -1,0 +1,12 @@
+MultiAgentApp/
+  .env                      # your API keys (local only; never commit)
+  requirements.txt
+  app.py                    # Streamlit UI
+  agents/
+    __init__.py
+    summarize_agent.py
+    writer_agent.py
+    redactor_agent.py
+  utils/
+    __init__.py
+    llm_client.py
