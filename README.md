@@ -27,8 +27,6 @@ OPENAI_API_KEY=your_api_key
 OPENAI_MODEL=gpt-4o-mini
 OPENAI_EMBED_MODEL=text-embedding-3-small
 NGROK_AUTH_TOKEN=your_ngrok_token
-NCBI_TOOL=med-write-app
-NCBI_EMAIL=you@example.com
 ```
 
 ### 3) Run
