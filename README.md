@@ -1,6 +1,5 @@
-# Medical Summarize & Write App
+# ReliScore: AI Agents for Secure and Reliable Medical Text Processing
 
-Streamlit app for medical text **Summarization** and **Writing** with evidence hooks and early trust scoring.
 
 ## Features
 - **Summarize**
